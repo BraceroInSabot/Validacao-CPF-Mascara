@@ -19,8 +19,6 @@ Veja o vídeo de demonstração abaixo:
 
 [Video Demonstração](./assets/video/validacao-video.mp4)
 
-> Substitua esse link pelo local onde o vídeo será hospedado ou use um player nativo se for abrir localmente.
-
 ## Como Executar
 
 1. Clone o repositório:
